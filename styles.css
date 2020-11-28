@@ -63,7 +63,7 @@ header .profile-image {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 3px solid white: 
+    border: 3px solid white; 
     transition: all .5s;
 }
 header .profile-image: hover {
@@ -120,7 +120,7 @@ footer {
 
 footer .copyright {
     top: -8px;
-    margin-righ: 20px;
+    margin-right: 20px;
     font-size: .75em;
 }
 
@@ -175,8 +175,8 @@ header {
 }
 
 .nav {
-    max-width: 1200;
-    padding: 0 40px;
+    max-width: 1200px;
+    padding: 0px 40px;
 }
 
 .nav .name {
@@ -203,7 +203,7 @@ footer {
 
 h3 {
     color: maroon;
-    letting-spacing: .5px;
+
 }
 
 .card-title {
