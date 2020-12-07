@@ -35,9 +35,9 @@ a:hover {
     margin: 0 auto;
     padding: 0;
 }
-.nav .name {
+/* .nav .name {
     display: none;
-}
+} */
 .nav li {
     padding: 5px 10px 10px 10px;
 }
@@ -54,12 +54,11 @@ header {
     background-size: cover;
     overflow: hidden;
     padding-top: 60px;
-}
-header {
     line-height: .5;
 }
+
 header .profile-image {
-    margin-top: 50px;
+    margin-top: 54px;
     width: 150px;
     height: 150px;
     border-radius: 100%;
@@ -77,6 +76,12 @@ header .profile-image:hover {
     display: table;
     margin: 10px auto;
 }
+
+.email ,
+.main-image {
+    margin-top: 100px;
+}
+
 .location {
     background-color: #222;
     color: white;
